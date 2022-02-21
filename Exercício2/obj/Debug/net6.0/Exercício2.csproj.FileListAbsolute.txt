@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\bin\Debug\net6.0\Exercício2.exe
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\bin\Debug\net6.0\Exercício2.deps.json
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\bin\Debug\net6.0\Exercício2.runtimeconfig.json
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\bin\Debug\net6.0\Exercício2.dll
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\bin\Debug\net6.0\ref\Exercício2.dll
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\bin\Debug\net6.0\Exercício2.pdb
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.AssemblyInfo.cs
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.dll
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\ref\Exercício2.dll
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.pdb
+C:\Users\USER\Desktop\workspacedotnet\Exercício2\obj\Debug\net6.0\Exercício2.genruntimeconfig.cache
