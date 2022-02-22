@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\bin\Debug\net6.0\AbstracaoJogoRPG.exe
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\bin\Debug\net6.0\AbstracaoJogoRPG.deps.json
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\bin\Debug\net6.0\AbstracaoJogoRPG.runtimeconfig.json
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\bin\Debug\net6.0\AbstracaoJogoRPG.dll
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\bin\Debug\net6.0\ref\AbstracaoJogoRPG.dll
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\bin\Debug\net6.0\AbstracaoJogoRPG.pdb
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.AssemblyInfo.cs
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.dll
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\ref\AbstracaoJogoRPG.dll
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.pdb
+C:\Users\USER\Desktop\workspacedotnet\AbstracaoJogoRPG\obj\Debug\net6.0\AbstracaoJogoRPG.genruntimeconfig.cache
